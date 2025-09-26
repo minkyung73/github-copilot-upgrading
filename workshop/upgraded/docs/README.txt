@@ -1,0 +1,1 @@
+This directory contains documentation files (copied from legacy).
